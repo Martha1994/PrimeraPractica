@@ -1,5 +1,5 @@
 var telegrambot=require('node-telegram-bot-api');
-var token='fawhieuer4839rxxxxxxxxxxxxsaassasa';
+var token='298349285:AAG-FbPNsIDDu-yIHdDWy4Ve9DsIsNhR4';
 var bot=new telegrambot(
     token, {
     polling:true
@@ -11,12 +11,6 @@ bot.getMe().then(function(me) {
 });
 
 
-
-
-
-
-
-s
 
 
 
